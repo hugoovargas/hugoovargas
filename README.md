@@ -60,6 +60,6 @@ Value Objects, regras de negócio e testes automatizados.
 
 ## Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/hugo-vargas-60babb418?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn: https://www.linkedin.com/in/hugo-vargas-60babb418
 
 📧 Email: hugoovvargas@gmail.com
