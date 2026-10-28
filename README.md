@@ -1,65 +1,87 @@
-# Olá, eu sou Hugo! 👋
+# Olá! Eu sou o Hugo Vargas 👋
 
 🎓 Estudante de Sistemas de Informação na Universidade Federal Fluminense (UFF).
 
-💻 Tenho foco em desenvolvimento Backend com Java e Spring Boot.
+💻 Desenvolvedor em formação, explorando diferentes áreas da tecnologia e transformando conhecimentos em projetos práticos.
 
-🔎 Buscando minha primeira oportunidade de estágio em desenvolvimento de software.
+🚀 Atualmente, meu foco está em desenvolvimento de software, boas práticas de programação e construção de aplicações cada vez mais bem estruturadas.
 
 ## Sobre mim
 
-Atualmente estudo desenvolvimento backend utilizando Java e Spring Boot,
-com foco em boas práticas de engenharia de software, arquitetura e testes.
+Gosto de entender como as coisas funcionam por trás do código, desde a lógica de negócio até a arquitetura de uma aplicação.
 
-Tenho desenvolvido projetos próprios para colocar em prática conceitos como:
+Tenho me dedicado principalmente ao ecossistema Java e Spring Boot, estudando arquitetura de software, modelagem de domínio, bancos de dados e testes automatizados. Também exploro Python para automação e processamento de dados, além de HTML, CSS e JavaScript para desenvolvimento web.
 
-- Programação Orientada a Objetos
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- SOLID
-- APIs REST
-- Testes automatizados
-- Persistência com JPA/Hibernate
-- PostgreSQL
-- Docker
+Mais do que aprender novas tecnologias, busco entender quando e por que utilizá-las, escrevendo código organizado, testável e fácil de manter.
 
-## Tecnologias
+Este perfil reúne projetos pessoais, estudos e experimentos que fazem parte da minha evolução como desenvolvedor.
 
-### Backend
+## Tecnologias e ferramentas
 
-Java • Spring Boot • Spring Data JPA • Hibernate
+**Linguagens**
 
-### Banco de dados
+Java | Python | JavaScript | SQL
 
-PostgreSQL • H2 • SQL
+**Backend**
 
-### Testes
+Spring Boot | Spring Web | Spring Data JPA | Hibernate | APIs REST
 
-JUnit 5 • Mockito • JaCoCo
+**Frontend**
 
-### Ferramentas
+HTML5 | CSS3 | JavaScript
 
-Git • GitHub • Maven • Docker • GitHub Actions
+**Bancos de dados**
 
-## Projetos
+PostgreSQL | H2
 
-### BankAPI — Sistema Bancário Backend
+**Testes e qualidade de código**
 
-Sistema bancário desenvolvido com Java 21 e Spring Boot,
-utilizando Clean Architecture, DDD, PostgreSQL, testes automatizados
-e APIs REST.
+JUnit 5 | Mockito | MockMvc | pytest | JaCoCo
 
-🔗 [Repositório](https://github.com/hugoovargas/sistema-bancario-springboot)
+**Arquitetura e desenvolvimento**
 
-### BankLite — Sistema Bancário em Java
+Programação Orientada a Objetos | SOLID | Clean Architecture | Domain-Driven Design (DDD) | Ports and Adapters
 
-Projeto desenvolvido para estudar modelagem de domínio,
-Value Objects, regras de negócio e testes automatizados.
+**Dados e automação**
 
-🔗 [Repositório](https://github.com/hugoovargas/sistema-bancario-java)
+pandas | openpyxl | CSV | Relatórios Excel
+
+**Ferramentas**
+
+Git | GitHub | Maven | Docker | Docker Compose | GitHub Actions
+
+## Projetos em destaque
+
+### BankAPI - Sistema Bancário REST
+
+Aplicação backend desenvolvida para explorar conceitos de engenharia de software no contexto de um sistema bancário, com foco em regras de negócio, arquitetura, persistência de dados e testes automatizados.
+
+**Principais tecnologias:** Java 21, Spring Boot, PostgreSQL, H2, JUnit 5 e Mockito.
+
+[Ver repositório](https://github.com/hugoovargas/sistema-bancario-springboot)
+
+### AutoReport - Automação de Relatórios
+
+Projeto em Python voltado à automação do processamento de dados comerciais. Trabalha com leitura de arquivos CSV, validação de registros e preparação de dados para relatórios em Excel.
+
+**Principais tecnologias:** Python, pandas, openpyxl e pytest.
+
+### DevTrack - Painel de Projetos e Estudos
+
+Aplicação web criada para organizar projetos de desenvolvimento e acompanhar sessões de estudo. Projeto utilizado para praticar fundamentos de frontend, manipulação do DOM e armazenamento de dados no navegador.
+
+**Principais tecnologias:** HTML, CSS, JavaScript e LocalStorage.
+
+## Atualmente aprendendo
+
+- Aprofundando conhecimentos em Java e Spring Boot.
+- Estudando arquitetura de software e modelagem de domínio.
+- Praticando testes automatizados e desenvolvimento orientado a boas práticas.
+- Evoluindo em Python, pandas e automação de tarefas.
+- Construindo aplicações web e consolidando fundamentos de frontend.
 
 ## Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/hugo-vargas-60babb418
+📧 **E-mail:** hugoovvargas@gmail.com
 
-📧 Email: hugoovvargas@gmail.com
+💼 **LinkedIn:** [hugo-vargas](www.linkedin.com/in/hugo-vargas-60babb418)
