@@ -66,11 +66,15 @@ Projeto em Python voltado à automação do processamento de dados comerciais. T
 
 **Principais tecnologias:** Python, pandas, openpyxl e pytest.
 
+[Ver repositório](https://github.com/hugoovargas/auto-report)
+
 ### DevTrack - Painel de Projetos e Estudos
 
 Aplicação web criada para organizar projetos de desenvolvimento e acompanhar sessões de estudo. Projeto utilizado para praticar fundamentos de frontend, manipulação do DOM e armazenamento de dados no navegador.
 
 **Principais tecnologias:** HTML, CSS, JavaScript e LocalStorage.
+
+[Ver repositório](https://github.com/hugoovargas/devTrack)
 
 ## Atualmente aprendendo
 
