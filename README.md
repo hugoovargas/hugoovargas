@@ -88,4 +88,4 @@ Aplicação web criada para organizar projetos de desenvolvimento e acompanhar s
 
 📧 **E-mail:** hugoovvargas@gmail.com
 
-💼 **LinkedIn:** [hugo-vargas](www.linkedin.com/in/hugo-vargas-60babb418)
+💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/hugo-vargas-60babb418)
