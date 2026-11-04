@@ -72,9 +72,9 @@ Projeto em Python voltado à automação do processamento de dados comerciais, i
 
 ### DevTrack — Painel de Projetos e Estudos
 
-Aplicação web criada para organizar projetos de desenvolvimento e acompanhar sessões de estudo e metas semanais. O projeto permite praticar fundamentos de frontend, manipulação do DOM e persistência de dados no navegador.
+Aplicação web desenvolvida para organizar projetos de desenvolvimento, registrar sessões de estudo e acompanhar metas semanais. O projeto utiliza JavaScript para manipulação dinâmica do DOM e LocalStorage para persistência de dados no navegador. Também conta com testes automatizados E2E utilizando Cypress para validar os principais fluxos da aplicação.
 
-**Principais tecnologias:** HTML5, CSS3, JavaScript, LocalStorage e Git.
+**Principais tecnologias:** HTML5, CSS3, JavaScript, LocalStorage, Cypress e Git.
 
 [Ver repositório](https://github.com/hugoovargas/devTrack)
 
